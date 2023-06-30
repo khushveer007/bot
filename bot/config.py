@@ -2,13 +2,14 @@ import os
 
 class Config:
 
-    BOT_TOKEN = ""
+    BOT_TOKEN = "5848537364:AAEwt5ED7zOcTYOHBJdn1jMmJ1GJ8po3rv4"
 
-    SESSION_NAME = ""
+    SESSION_NAME = "Ictuploadbot"
 
-    API_ID = ""
+    API_ID = "26367674"
 
-    API_HASH = ""
+
+    API_HASH = "9758292b691b82c5915900c506fcbe83"
 
     CLIENT_ID = ""
 
